@@ -21,10 +21,10 @@ y configuramos el path en los entornos de variables creando una variable de sist
 Y así ya solo queda guardar todos los cambios, descargar el proyecto de tu interes y a aprender :smile:
 <br>
 **Tegnologias usadas: 
-<img width="50" height="50" alt="226777" src="https://github.com/user-attachments/assets/a40c5377-56f3-41bf-96bd-cacce0a3ba13" />
-OpenJDK24
-IDE: IntelliJ IDEA y Visual Studio Code
-
-🚧 Aún en proceso de subida 🚧
+<img width="30" height="30" alt="226777" src="https://github.com/user-attachments/assets/a40c5377-56f3-41bf-96bd-cacce0a3ba13" />
+OpenJDK24<br>
+IDE: IntelliJ IDEA y Visual Studio Code<br>
+<br>
+🚧 Aún en proceso de subida 🚧<br>
     ![Progreso](https://img.shields.io/badge/Procesando-65%25-brightgreen)
 **
