@@ -3,7 +3,7 @@
 
 :package:<ins> Cómo instalar y ejecutar los proyectos:</ins>
 **En primer lugar descargamos jdk (Java Developer Kit) desde la pagina de openjdk (en caso de quere la version gratuita)
-y configuramos el path en los entornos de variables creando una variable de sistema nueva con el nombre de JAVA_HOME, donde seleccionamos la carpeta en donde descomprimimos el archivo zip de jdk, luego en el mismo lugar donde creamos la variable anterior, buscamos la variable PATH y seleccionamos una celda vacia, allí le damos a examinar y seleccionamos la carpeta la carpeta donde está el jdk como mostraré a continuacion:**
+y configuramos el path en los entornos de variables creando una variable de sistema nueva con el nombre de JAVA_HOME, donde seleccionamos la carpeta en donde descomprimimos el archivo zip de jdk, luego en el mismo lugar donde creamos la variable anterior, buscamos la variable PATH y seleccionamos una celda vacia, allí le damos a examinar y seleccionamos la carpeta la carpeta donde está el jdk como mostraré a continuacion:**<br>
 **Paso 1**<br>
 <img width="415" height="487" alt="image" src="https://github.com/user-attachments/assets/5ceaf49e-9934-4367-a2a0-936c3485eb6b" /><br>
 **Paso 2**<br>
