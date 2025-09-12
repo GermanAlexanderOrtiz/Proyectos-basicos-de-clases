@@ -1,4 +1,4 @@
-#Proyectos de Clases en Java
+# Proyectos de Clases en Java
 :warning:**Empezar aclarando que en este repositorio solo se encuentran los proyectos basicos de mis clases de java, aún no termino de subir todos los proyectos y los proyectos un poco más complejos los subiré en otros repositorio por cada uno de ellos.**
 
 :package:<ins> Cómo instalar y ejecutar los proyectos:</ins>
