@@ -25,6 +25,6 @@ Y así ya solo queda guardar todos los cambios, descargar el proyecto de tu inte
 OpenJDK24<br>
 IDE: IntelliJ IDEA y Visual Studio Code<br>
 <br>
-🚧 Aún en proceso de subida 🚧<br>
+🚧 Aún en proceso de subida 🚧**<br>
     ![Progreso](https://img.shields.io/badge/Procesando-65%25-brightgreen)
-**
+
