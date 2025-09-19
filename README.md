@@ -26,5 +26,5 @@ OpenJDK24<br>
 IDE: IntelliJ IDEA y Visual Studio Code<br>
 <br>
 Estado: Terminado 🥳**<br>
-    ![Progreso](https://img.shields.io/badge/Procesando-100%25-brightgreen)
+    ![Progreso](https://img.shields.io/badge/Progreso-100%25-brightgreen)
 
